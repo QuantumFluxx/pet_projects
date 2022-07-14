@@ -40,4 +40,8 @@
 ------------
 
 ### Дополнительно
-**В репозиторий [karpov_courses](https://github.com/QuantumFluxx/karpov_courses) я буду добавлять проекты, лекции и домашние работы с курса дополнительного профессионального образования по направлению "Аналитик данных".**
+**В репозиторий [karpov_courses](https://github.com/QuantumFluxx/karpov_courses) я буду добавлять проекты, лекции и практические задания с курса дополнительного профессионального образования по направлению "Аналитик данных".**
+
+**В репозиторий [DataCamp_projects](https://github.com/QuantumFluxx/DataCamp_projects) сохраняю проекты с ресурса https://www.datacamp.com/.**
+
+**В репозиторий [Stepik_courses](https://github.com/QuantumFluxx/Stepik_courses) сохраняю пройденные курсы.**
