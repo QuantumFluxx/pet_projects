@@ -45,3 +45,5 @@
 **В репозиторий [DataCamp_projects](https://github.com/QuantumFluxx/DataCamp_projects) сохраняю проекты с ресурса https://www.datacamp.com/.**
 
 **В репозиторий [Stepik_courses](https://github.com/QuantumFluxx/Stepik_courses) сохраняю пройденные курсы.**
+
+**В репозиторий [codewars_solutions](https://github.com/QuantumFluxx/codewars_solutions) сохраняются решения кат с ресурса www.codewars.com на языках Python, JavaScript, SQL.**
