@@ -1,3 +1,13 @@
+<div id="badges" align="center">
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/QuantumFluxx/pet_projects.svg)](https://github.com/QuantumFluxx/pet_projects) 
+[![GitHub commit activity the past week, 4 weeks, year](https://img.shields.io/github/commit-activity/y/QuantumFluxx/pet_projects.svg)](https://github.com/QuantumFluxx/pet_projects) 
+[![GitHub repo size in bytes](https://img.shields.io/github/repo-size/QuantumFluxx/pet_projects.svg)](https://github.com/QuantumFluxx/pet_projects)
+![ViewCount](https://views.whatilearened.today/views/github/QuantumFluxx/pet_projects.svg?cache=remove)
+![GitHub top language](https://img.shields.io/github/languages/top/QuantumFluxx/pet_projects.svg?style=flat)
+
+</div>
+
 ## Введение
 Привет! Это репозиторий с работами, которые я выполняю в свободное время для прокачки навыков.
 
